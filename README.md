@@ -11,11 +11,10 @@ What are the most common use cases of stacks and queues
 What is the proper way to use global variables
 
 -------------------------------------------------------------------
-Monty 0.98 is a scripting language that is first compiled into Monty byte codes (Just like Python). It relies on a unique stack, with specific instructions to manipulate it. The goal of this project is to create an interpreter for Monty ByteCodes files.
+Monty is a scripting language that is first compiled into Monty byte codes (Just like Python). It relies on a unique stack, with specific instructions to manipulate it. The goal of this project is to create an interpreter for Monty ByteCodes files.
 
-
-
-Monty byte code files
+Author
+Bala Sule
 
 
 
